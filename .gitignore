@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+.env
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+yarn-error.log
+
+# Data
+data_pipeline/raw_data/*
+!data_pipeline/raw_data/.gitkeep
+data_pipeline/processed_data/*
+!data_pipeline/processed_data/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

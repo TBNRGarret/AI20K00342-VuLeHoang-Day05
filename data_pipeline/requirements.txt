@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pandas
+openpyxl
+pypdf
+llama-parse
+python-dotenv
+qdrant-client
+sentence-transformers

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+openai
+langchain
+langchain-community
+langchain-openai
+qdrant-client
+python-dotenv
+python-multipart
+ragas
+trulens-eval
