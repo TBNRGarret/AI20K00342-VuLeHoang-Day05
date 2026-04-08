@@ -47,22 +47,8 @@ Cần: confirm, sửa, fallback
 → Đây là gap lớn về kỳ vọng người dùng
 
 5. Đánh giá model (Metrics)
-
-Bạn đã ghi 2 metric quan trọng:
-
 Recall
-
-
-
 → Khả năng không bỏ sót phân loại đúng
 
 Precision
-
-
-Precision=
-TP+FP
-TP
-
-
-
 → Độ chính xác của các dự đoán AI
